@@ -1,0 +1,71 @@
+/* .card1{
+    display: flex;
+    display: flex;
+    width: 100%;
+    background-color: white;
+    height: 80px;
+    box-shadow: 2px 4px 9px grey;
+    justify-content: center;
+    align-items: center;
+   margin-top: 10px;
+   
+}
+.maincard{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+.btn-primary{
+    background-color: black;
+    width: 100%;
+    font-weight: bold;
+}
+
+
+
+.card{
+    width: 100%;
+    height: auto !important;
+    margin-bottom: 10px;
+    margin-top: 20px; 
+}
+
+
+.heading{
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    font-weight: bold;
+    color: black;
+}
+
+
+.heading2{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.form-control{
+    /* background-color: rgb(247, 235, 235) ; */
+/* }
+
+.logo{
+    margin: 10px 10px;
+    padding: 10px 10px;
+}
+.form{
+    background-color: rgb(250, 239, 239) !important;
+}
+
+  @media only screen and (max-width: 600px) {
+    .card1{
+        width: 100% !important;
+    }
+/* } */ 
